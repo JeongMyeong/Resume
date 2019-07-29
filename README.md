@@ -16,9 +16,10 @@
 > - 한림대학교 창업아이디어 경진대회 <수상>
 > - 한림대학교 SW골든벨 참가
 > - 한림대학교 SW융합대학 2019-1 파이썬언어 멘토링 멘토역할
-> - 한림대학교 2019-1 디딤돌 멘토링
+> - 한림대학교 2019-1 디딤돌 멘토링 멘토역할
 > - 케라스 & 캐글 전국콘서트(서울) 참여 <[관련정보](https://tykimos.github.io/2019/02/09/Keras_and_Kaggle_National_Concert/)>
-
+> - USC대학(University of Southern California) 에서 진행 된 Software Pioneer Program in AI-based Data Science 교육 수료.
+> - Southern California Korean American SoftWare Pioneer Hackathon 참여 및 수료
 > ### 2018
 > - 한림대학교 한림 SW 해커톤 참가 <수상>
 > - 영화 리뷰를 통한 긍정/부정 리뷰 분류 (캡스톤디자인)
