@@ -11,11 +11,11 @@
 
 # 활동 (수정중)
 > ### 2019
-> - 한림대학교 SW 중심대학 Mini 컨트리뷰톤 참가 <수상>
-> - 강원도 아이디어 해커톤 참여 <수상>
+> - 한림대학교 SW 중심대학 Mini 컨트리뷰톤 참가 <수상> <[관련정보](https://github.com/Hallym-OpenSourceSW/HL_Contributhon)>
+> - 강원도 아이디어 해커톤 참여 <수상> <[관련정보](http://www.provin.gangwon.kr/gw/portal/sub05_02?mode=readForm&boardCode=BDAADD02&articleSeq=157539)>
 > - 한림대학교 창업아이디어 경진대회 <수상>
 > - 한림대학교 SW골든벨 참가
-> - 한림대학교 SW융합대학 2019-1 파이썬언어 멘토링 멘토역할
+> - 한림대학교 SW융합대학 2019-1 파이썬언어 멘토링 멘토역할<[관련정보](https://github.com/JeongMyeong/HallymPythonMentoring)>
 > - 한림대학교 2019-1 디딤돌 멘토링 멘토역할
 > - 케라스 & 캐글 전국콘서트(서울) 참여 <[관련정보](https://tykimos.github.io/2019/02/09/Keras_and_Kaggle_National_Concert/)>
 > - USC대학(University of Southern California) 에서 진행 된 Software Pioneer Program in AI-based Data Science 교육 수료.
