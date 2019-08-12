@@ -20,6 +20,7 @@
 > - 케라스 & 캐글 전국콘서트(서울) 참여 <[관련정보](https://tykimos.github.io/2019/02/09/Keras_and_Kaggle_National_Concert/)>
 > - USC대학(University of Southern California) 에서 진행 된 Software Pioneer Program in AI-based Data Science 교육 수료.
 > - Southern California Korean American SoftWare Pioneer Hackathon 참여 및 수료
+> - 한동대학교 모형차 자율주행 대회 참여 <[관련정보](https://sites.google.com/handong.edu/sw-2019-car)>
 > ### 2018
 > - 한림대학교 한림 SW 해커톤 참가 <수상>
 > - 영화 리뷰를 통한 긍정/부정 리뷰 분류 (캡스톤디자인)
