@@ -7,23 +7,31 @@
 ### e-mail : jeong5905@gmail.com  
 
 # 관심 분야
-저는 데이터사이언스, 인공지능, 머신러닝, 딥러닝에 관심이 있어 공부중입니다.
+저는 데이터사이언스, 인공지능, 머신러닝, 딥러닝, 자연언어처리에 관심이 있어 공부중입니다.
 
 # 참여 컨퍼런스
 > - 케라스 & 캐글 전국콘서트(서울) 참여 <[관련정보](https://tykimos.github.io/2019/02/09/Keras_and_Kaggle_National_Concert/)>
 > - if(kakao) dev2019 (개발자 컨퍼런스) <[관련정보](https://if.kakao.com/about)>
+> - DEVIEW 2019 <[관련정보](https://deview.kr/2019)>
 
 # 활동 (수정중)
 > ### 2019
-> - 한림대학교 SW 중심대학 Mini 컨트리뷰톤 참가 <수상> <[관련정보](https://github.com/Hallym-OpenSourceSW/HL_Contributhon)>
-> - 강원도 아이디어 해커톤 참여 <수상> <[관련정보](http://www.provin.gangwon.kr/gw/portal/sub05_02?mode=readForm&boardCode=BDAADD02&articleSeq=157539)>
-> - 한림대학교 창업아이디어 경진대회 <수상>
+> - 한림대학교 SW 중심대학 Mini 컨트리뷰톤 참가 <1등상 수상> <[관련정보](https://github.com/Hallym-OpenSourceSW/HL_Contributhon)>
+> - 강원도 아이디어 해커톤 참여 <장려상 수상> <[관련정보](http://www.provin.gangwon.kr/gw/portal/sub05_02?mode=readForm&boardCode=BDAADD02&articleSeq=157539)>
+> - 한림대학교 창업아이디어 경진대회 <은상 수상>
+> - 한림대학교 [2019 SW Week] SW 공모전 참여<자연언어 처리 딥러닝 기술을 활용하여 분류기능이 있는 유튜브 다운로드 프로그램> <은상 수상> <[관련정보](https://github.com/JeongMyeong/Youtube-Downloader)>
+> - 한림대학교 2019년 2학기 SW 캡스톤디자인<대학교 커뮤니티에 올라오는 질문들을 챗봇을 통해 해결> <금상 수상> <[관련정보](https://github.com/JeongMyeong/Capstone-Design-6-)>
 > - 한림대학교 SW골든벨 참가
 > - 한림대학교 SW융합대학 2019-1 파이썬언어 멘토링 멘토역할<[관련정보](https://github.com/JeongMyeong/HallymPythonMentoring)>
+> - 한림대학교 SW융합대학 2019-2 파이썬을 활용한 머신러닝 멘토링 멘토역할<[관련정보](https://github.com/JeongMyeong/HallymPythonMentoring)>
 > - 한림대학교 2019-1 디딤돌 멘토링 멘토역할
 > - USC대학(University of Southern California) 에서 진행 된 Software Pioneer Program in AI-based Data Science 교육 수료.
 > - Southern California Korean American SoftWare Pioneer Hackathon 참여 및 수료
 > - 한동대학교 모형차 자율주행 대회 참여 <[관련정보](https://sites.google.com/handong.edu/sw-2019-car)>
+> - CCTV를 이용한 혼잡도 판단 시스템의 제어 방법, 장치 및 프로그램 (특허출원)
+> - 2019 한국소프트웨어종합학술대회 논문 발표(Poster)<영화리뷰 감성 분석에서 매개변수 변화에 따른 단어 임베딩 모델의 성능 비교>
+
+
 > ### 2018
 > - 한림대학교 한림 SW 해커톤 참가 <수상>
 > - 영화 리뷰를 통한 긍정/부정 리뷰 분류 (캡스톤디자인)
