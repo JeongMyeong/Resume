@@ -14,6 +14,16 @@
 > - if(kakao) dev2019 (개발자 컨퍼런스) <[관련정보](https://if.kakao.com/about)>
 > - DEVIEW 2019 <[관련정보](https://deview.kr/2019)>
 
+# 참가한 온라인 대회 
+### [Kaggle](https://kaggle.com)
+>-  Humpback Whale Identification (3638/8802 Top 42%)  
+>-  ASHRAE - Great Energy Predictor III (1011/3614 Top 28%)  
+>-  Santander Customer Transaction Prediction (3638/8802 Top 42%)  
+### [Dacon](https://dacon.io)  
+>- 금융문자 분석 (153/372 Top 41%)
+>- 제주 퇴근시간 버스승차인원 예측 (27/269 Top 10%)
+
+
 # 활동 (수정중)
 > ### 2019
 > - 한림대학교 SW 중심대학 Mini 컨트리뷰톤 참가 <1등상 수상> <[관련정보](https://github.com/Hallym-OpenSourceSW/HL_Contributhon)>
