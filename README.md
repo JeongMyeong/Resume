@@ -20,10 +20,10 @@
 >-  ASHRAE - Great Energy Predictor III (1011/3614 Top 28%)  
 >-  Santander Customer Transaction Prediction (3638/8802 Top 42%)  
 ### [Dacon](https://dacon.io)  
->- 금융문자 분석 (153/372 Top 41%)
->- 제주 퇴근시간 버스승차인원 예측 (27/269 Top 10%)
+>- 금융문자 분석 (153/372 Top 41.1%)
+>- 제주 퇴근시간 버스승차인원 예측 (27/269 Top 10.0%)
 >- 원자력발전소 상태 판단 (11/192 Top 5.7%)
->- 반도체 박막 두께 분석 (36/228 Top 15%)
+>- 반도체 박막 두께 분석 (36/228 Top 15.7%)
 >- 천체 유형 분류 (7/352 Top 1.9%)
 
 
