@@ -14,7 +14,7 @@
 > - if(kakao) dev2019 (개발자 컨퍼런스) <[관련정보](https://if.kakao.com/about)>
 > - DEVIEW 2019 <[관련정보](https://deview.kr/2019)>
 
-# 참가한 온라인 대회 
+# 참가한 데이터  대회 
 ### [Kaggle](https://kaggle.com)
 >-  Humpback Whale Identification (3638/8802 Top 42%)  
 >-  ASHRAE - Great Energy Predictor III (1011/3614 Top 28%)  
